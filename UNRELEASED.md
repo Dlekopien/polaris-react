@@ -17,6 +17,7 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 ### Bug fixes
 
 - Removed `Navigation.Item` color change when focused ([#3562](https://github.com/Shopify/polaris-react/pull/3562))
+- Improved the visibility of borders in dark mode and missing radius' on the `DataTable` ([#3571](https://github.com/Shopify/polaris-react/pull/3571))
 
 ### Documentation
 
